@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KaliKolumbus
+- 👀 I’m interested in Programming,Game Development, Streaming and Gaming
+- 🌱 I’m currently learning how to programm with C# in Unity
+- 📫 How to reach me on Discord: Kali#0561 or E-Mail: jugame18@gmail.com
